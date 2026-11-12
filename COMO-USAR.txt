@@ -1,0 +1,25 @@
+TRAFSEG — DEMONSTRAÇÃO DE PROPOSTA
+
+HTML
+1. Abra apresentacao.html no navegador.
+2. Use as setas da tela ou do teclado para trocar os sete slides.
+3. Use Apresentar para tela cheia. Esc sai da tela cheia.
+4. Personalizar permite editar cliente, região, diagnóstico, valores e condições.
+5. Baixar cópia do cliente gera outro HTML com os dados incorporados.
+   A edição não altera automaticamente o arquivo original em disco.
+6. PDF abre a impressão. Escolha Salvar como PDF, orientação paisagem,
+   sem cabeçalhos/rodapés, com gráficos de fundo. O PDF é estático.
+7. Animações podem ser desligadas. Preferências de movimento reduzido são respeitadas.
+
+A logo está incorporada no HTML. A fonte Poppins requer internet; sem ela, usa Arial.
+Não há envio automático nem armazenamento remoto dos dados de personalização.
+Conteúdo demonstrativo: os slides definitivos serão adaptados ao material enviado depois.
+Os dois casos de sucesso são reais, conforme confirmação de Bryan.
+Valores ficam como A definir até serem personalizados.
+
+CANVA
+A versão Canva usa o mesmo roteiro de sete slides para comparação.
+O fluxo do conector exige escolha/confirmação no painel de geração antes de criar o design.
+As ferramentas de edição disponíveis não expõem controles de animação ou transição.
+Se a geração não incluir movimento, aplique-o no editor do Canva pelo controle Animar.
+Sugestão: entrada suave de texto e aparição sequencial nas etapas; mantenha valores estáveis.
